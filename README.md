@@ -26,6 +26,6 @@
 
 
   <em>
-    Hello, I am Uriel Pandolfi, a Unity developer from Argentina, passionate about game development. I have been programming in Unity for almost 3 years and learning programming for 4 years. I am an enthusiastic learner and quick problem solver, always eager to tackle new challenges. Currently, I am working on a mobile graphic novel game for the Play Store. My projects have included 2D and 3D platformers with AI combat, among others. I am currently seeking new opportunities in the game development industry. 
+    Hello, I am Uriel Pandolfi, a Unity developer from Argentina, passionate about game development. I have been programming in Unity for almost 3 years and learning programming for 4 years. I am an enthusiastic learner and quick problem solver, always eager to tackle new challenges. My projects have included 2D and 3D platformers with AI combat, among others. I am currently seeking new opportunities in the game development industry. 
   </em> 
 <br>
