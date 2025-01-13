@@ -25,18 +25,20 @@
 <br>
 
 
-<table>
-  <tr>
-    <td align="center" style="border: 2px solid #000; border-radius: 10px; padding: 10px;">
-      <img src="https://via.placeholder.com/300x150" alt="Curso Unity DOTS" width="300">
-      <h3>Curso Unity DOTS</h3>
-      <p>Descubre cómo usar Unity DOTS para crear juegos más rápidos y escalables.</p>
-      <a href="https://github.com/TuRepositorio/CodigoDelCurso" style="text-decoration: none;">
-        <button style="background-color: #FFD700; border: none; color: black; padding: 10px 20px; border-radius: 5px; margin: 5px;">CÓDIGO</button>
-      </a>
-      <a href="https://www.youtube.com/watch?v=CwZAnRzXPTQ&t" style="text-decoration: none;">
-        <button style="background-color: #00BFFF; border: none; color: white; padding: 10px 20px; border-radius: 5px; margin: 5px;">YOUTUBE</button>
-      </a>
-    </td>
-  </tr>
-</table>
+  <em>
+    Hello, I am Uriel Pandolfi, a Unity developer from Argentina, passionate about game development. I have been programming in Unity for almost 3 years and learning programming for 4 years. I am an enthusiastic learner and quick problem solver, always eager to tackle new challenges. My projects have included 2D and 3D platformers with AI combat, graphic novels, among others. I am currently seeking new opportunities in the game development industry. 
+  </em> 
+<br>
+
+## 📹 Mi Curso Gratuito de Unity DOTS 🎮
+
+Haz clic en la imagen para acceder al curso completo en YouTube:
+
+[![Curso Unity DOTS](ruta-a-la-imagen)](https://www.youtube.com/watch?v=CwZAnRzXPTQ&t)
+
+En este curso aprenderás:
+- Conceptos básicos de Unity DOTS: ECS, Job System, Burst Compiler.
+- Cómo convertir GameObjects en Entities y trabajar con Componentes y Sistemas. 
+- ¡Y mucho más!
+
+🔗 **[Ver el curso en YouTube](https://www.youtube.com/watch?v=CwZAnRzXPTQ&t)**
