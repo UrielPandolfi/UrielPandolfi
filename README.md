@@ -29,3 +29,16 @@
     Hello, I am Uriel Pandolfi, a Unity developer from Argentina, passionate about game development. I have been programming in Unity for almost 3 years and learning programming for 4 years. I am an enthusiastic learner and quick problem solver, always eager to tackle new challenges. My projects have included 2D and 3D platformers with AI combat, graphic novels, among others. I am currently seeking new opportunities in the game development industry. 
   </em> 
 <br>
+
+## 📹 Mi Curso Gratuito de Unity DOTS 🎮
+
+Haz clic en la imagen para acceder al curso completo en YouTube:
+
+[![Curso Unity DOTS](ruta-a-la-imagen)](https://www.youtube.com/watch?v=CwZAnRzXPTQ&t)
+
+En este curso aprenderás:
+- Conceptos básicos de Unity DOTS: ECS, Job System, Burst Compiler.
+- Cómo convertir GameObjects en Entities y trabajar con Componentes y Sistemas.
+- ¡Y mucho más!
+
+🔗 **[Ver el curso en YouTube](https://www.youtube.com/watch?v=CwZAnRzXPTQ&t)**
