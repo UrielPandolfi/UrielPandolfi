@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/UrielPandolfi/UrielPandolfi/blob/main/Coding.gif" width="250px"></picture>
 
-🎮 ¡Hola! Soy Uriel Pandolfi, un desarrollador de videojuegos de Argentina apasionado por la creación de mundos y experiencias interactivas en Unity. Tengo casi 3 años de experiencia trabajando con Unity y 4 años aprendiendo programación.
+🎮 ¡Hola! Soy Uriel Pandolfi, un desarrollador de videojuegos de Argentina apasionado por la creación de mundos y experiencias interactivas en Unity. Tengo +3 años de experiencia trabajando con Unity y 4 años programando.
 
 ✨ Me destaco por:
 - Crear juegos 2D y 3D con sistemas de combate, inteligencia artificial y más.
@@ -43,17 +43,9 @@ En este curso aprenderás:
 
 ---
 
-## 💡 Mis Habilidades
-- **Lenguajes de Programación**: C#, Python, C++.
-- **Herramientas**: Unity, Blender, Git.
-- **Especialidad**: Optimización con ECS, programación orientada a datos y creación de juegos con mecánicas complejas.
-
----
-
 ## 📫 Contacto
 - 📧 **Correo**: uriel.pandolfi@gmail.com
-- 🌐 **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/urielpandolfi)
-- 📂 **Portafolio**: [Mi página](https://github.com/UrielPandolfi)
+- 🌐 **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/uriel-pandolfi-969467210/)
 
 ---
 
