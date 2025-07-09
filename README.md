@@ -1,51 +1,56 @@
-<h1 align="center">Hola, soy Uriel Pandolfi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2380ac40&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Juegos+en+Unity;Apasionado+por+el+aprendizaje;Solucionador+rápido+de+problemas;"></a>
-</p>
+# Uriel Pandolfi
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=UrielPandolfi&label=Visitas+al+perfil&color=0047AB&style=plastic?" alt="UrielPandolfi" height=25px, width=160px/> 
-</p>
+### Front-End Developer | React & WordPress Specialist
 
 ---
 
-## 👨‍💻 Sobre mí
+I'm Uriel, a front-end developer from Argentina with strong experience in modern web development. I’ve built and customized over 60 responsive and scalable websites using React, JavaScript, WordPress, and Sass. I’m passionate about creating elegant and performant user interfaces, always with clean code and a clear structure.
 
-<picture> <img align="right" src="https://github.com/UrielPandolfi/UrielPandolfi/blob/main/Coding.gif" width="250px"></picture>
-
-🎮 ¡Hola! Soy Uriel Pandolfi, un desarrollador de videojuegos de Argentina apasionado por la creación de mundos y experiencias interactivas en Unity. Tengo +3 años de experiencia trabajando con Unity y 4 años programando.
-
-✨ Me destaco por:
-- Crear juegos 2D y 3D con sistemas de combate, inteligencia artificial y más.
-- Trabajar en proyectos como novelas gráficas, plataformas y sistemas optimizados.
-- Aprender continuamente y resolver problemas rápidamente.
-
-🚀 Actualmente estoy buscando nuevas oportunidades en la industria del desarrollo de videojuegos.
+Currently focused on React-based development, I’ve also led multiple WordPress projects and built custom themes and plugins for SEO-optimized websites.
 
 ---
 
-## 📚 **Cursos**
+## 💼 Projects
 
-### 🎮 **Curso Gratuito de Unity DOTS**
+### 🌟 [AI Resume Builder](https://ai-resume-builder-uriel.vercel.app/)
+An AI-powered resume generation platform using OpenAI's API. Built with React, Node.js, and hosted on Vercel. 
 
-Haz clic en la imagen para acceder al curso completo en YouTube:
+- Responsive UI, dynamic form generation
+- API integration with OpenAI for real-time content
+- Form validation and UX enhancements
 
-[![Curso Unity DOTS](https://img.youtube.com/vi/CwZAnRzXPTQ/0.jpg)](https://www.youtube.com/watch?v=CwZAnRzXPTQ&t)
+### 📈 [PokeWiki](https://poke-wiki-git-main-uriel-pandolfis-projects.vercel.app/)
+An interactive encyclopedia for Pokémon fans that combines data from PokeAPI and OpenAI.
 
-En este curso aprenderás:
-- Conceptos básicos de Unity DOTS: ECS, Job System, Burst Compiler.
-- Cómo convertir GameObjects en Entities y trabajar con Componentes y Sistemas. 
-- ¡Y mucho más!
+- Built with React and styled-components
+- Context API and routing for smooth navigation
+- AI integration for dynamic Q&A experience
 
-🔗 **[Ver el curso en YouTube](https://www.youtube.com/watch?v=CwZAnRzXPTQ&t)**
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3, SCSS
+- **Frameworks:** React, Next.js, Node.js, WordPress
+- **Tools:** Git, GitHub, Vercel, Webpack, Figma, Photoshop
+- **CMS:** WordPress (Divi, Elementor), WooCommerce
+- **Other:** REST APIs, SEO Optimization, OpenAI, FTP
 
 ---
 
-## 📫 Contacto
-- 📧 **Correo**: uriel.pandolfi@gmail.com
-- 🌐 **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/uriel-pandolfi-969467210/)
+## 📚 Learning & Goals
+
+I'm currently expanding my full-stack skills by learning backend development with Node.js and exploring testing tools like Jest and Cypress. My goal is to build production-ready applications with a clean architecture and solid UI/UX.
 
 ---
+
+## 👤 Contact
+
+- **Email:** urielpandolfi@gmail.com
+- **Portfolio:** [urielpandolfi.com/web-dev](https://urielpandolfi.com/web-dev)
+- **LinkedIn:** [linkedin.com/in/uriel-pandolfi-969467210](https://www.linkedin.com/in/uriel-pandolfi-969467210)
+
+---
+
+Thanks for visiting!
 
