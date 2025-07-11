@@ -10,16 +10,16 @@ Currently focused on React-based development, I’ve also led multiple WordPress
 
 ---
 
-## 💼 Projects
+##  Projects
 
-### 🌟 [AI Resume Builder](https://ai-resume-builder-nine-eta.vercel.app/)
+###  [AI Resume Builder](https://ai-resume-builder-nine-eta.vercel.app/)
 An AI-powered resume generation platform using OpenAI's API. Built with React, and hosted on Vercel. 
 
 - Responsive UI, dynamic form generation
 - API integration with OpenAI for real-time content
 - Form validation and UX enhancements
 
-### 📈 [PokeWiki](https://poke-wiki-git-main-uriel-pandolfis-projects.vercel.app/)
+###  [PokeWiki](https://poke-wiki-git-main-uriel-pandolfis-projects.vercel.app/)
 An interactive encyclopedia for Pokémon fans that combines data from PokeAPI and OpenAI.
 
 - Built with React and styled-components
@@ -28,7 +28,7 @@ An interactive encyclopedia for Pokémon fans that combines data from PokeAPI an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3, SCSS
 - **Frameworks:** React, Next.js, Node.js, WordPress
@@ -38,13 +38,13 @@ An interactive encyclopedia for Pokémon fans that combines data from PokeAPI an
 
 ---
 
-## 📚 Learning & Goals
+## Learning & Goals
 
-I'm currently expanding my full-stack skills by learning backend development with Node.js and exploring testing tools like Jest and Cypress. My goal is to build production-ready applications with a clean architecture and solid UI/UX.
+I'm currently expanding my full-stack skills by learning backend development with Node.js and exploring testing tools like Jest and Cypress.
 
 ---
 
-## 👤 Contact
+## Contact
 
 - **Email:** urielpandolfi@gmail.com
 - **Portfolio:** [urielpandolfi.com/web-dev](https://urielpandolfi.com/web-dev)
