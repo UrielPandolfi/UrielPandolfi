@@ -13,7 +13,7 @@ Currently focused on React-based development, I’ve also led multiple WordPress
 ## 💼 Projects
 
 ### 🌟 [AI Resume Builder](https://ai-resume-builder-nine-eta.vercel.app/)
-An AI-powered resume generation platform using OpenAI's API. Built with React, Node.js, and hosted on Vercel. 
+An AI-powered resume generation platform using OpenAI's API. Built with React, and hosted on Vercel. 
 
 - Responsive UI, dynamic form generation
 - API integration with OpenAI for real-time content
