@@ -9,7 +9,7 @@ I’m a developer passionate about building **scalable and high-quality web appl
 My focus is on the **React ecosystem** and modern front-end technologies, while expanding into **full-stack development** with Node.js and databases.  
 
 I believe in **discipline, continuous learning, and clean code** as the foundation for building reliable solutions.  
-My long-term goal is to **share knowledge, speak at conferences, and inspire the next generation of developers.**
+My long-term goal is to **share knowledge and inspire the next generation of developers.**
 
 ---
 
